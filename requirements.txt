@@ -1,3 +1,9 @@
-beautifulsoup4
-requests
-pint
+beautifulsoup4==4.10.0
+fastapi==0.70.0
+pint==0.18
+requests==2.25.1
+setuptools==52.0.0.post20210125
+uvicorn==0.12.3
+aiofiles==0.6.0
+python-multipart==0.0.5
+jinja2==2.11.2
